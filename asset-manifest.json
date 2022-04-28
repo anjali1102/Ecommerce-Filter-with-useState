@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anjali1102.github.io/csb-fec1jw/static/css/main.c55aaf92.chunk.css",
+    "main.js": "https://anjali1102.github.io/csb-fec1jw/static/js/main.dbb5dd0e.chunk.js",
+    "main.js.map": "https://anjali1102.github.io/csb-fec1jw/static/js/main.dbb5dd0e.chunk.js.map",
+    "runtime-main.js": "https://anjali1102.github.io/csb-fec1jw/static/js/runtime-main.16774426.js",
+    "runtime-main.js.map": "https://anjali1102.github.io/csb-fec1jw/static/js/runtime-main.16774426.js.map",
+    "static/js/2.5b272ce4.chunk.js": "https://anjali1102.github.io/csb-fec1jw/static/js/2.5b272ce4.chunk.js",
+    "static/js/2.5b272ce4.chunk.js.map": "https://anjali1102.github.io/csb-fec1jw/static/js/2.5b272ce4.chunk.js.map",
+    "index.html": "https://anjali1102.github.io/csb-fec1jw/index.html",
+    "static/css/main.c55aaf92.chunk.css.map": "https://anjali1102.github.io/csb-fec1jw/static/css/main.c55aaf92.chunk.css.map",
+    "static/js/2.5b272ce4.chunk.js.LICENSE.txt": "https://anjali1102.github.io/csb-fec1jw/static/js/2.5b272ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16774426.js",
+    "static/js/2.5b272ce4.chunk.js",
+    "static/css/main.c55aaf92.chunk.css",
+    "static/js/main.dbb5dd0e.chunk.js"
+  ]
+}
